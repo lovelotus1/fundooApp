@@ -1,0 +1,129 @@
+.container{
+    display: flex;
+   
+    justify-content: center;
+    
+    width: 100vw;
+    height: 100vh;
+   
+}
+.input{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 60%;
+    height: 95%;
+    border-radius: 6px;
+    border: 2px solid rgb(133, 131, 129);
+}
+.input-child{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    width: 55%;
+    height: 95%;
+   
+    
+}
+.img-g{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 35%;
+   
+   
+    
+}
+.logo{
+    display: flex;
+    align-items: flex-end;
+    height: 70%;
+  
+}
+.txr-centr{
+    display: flex;
+    color: rgb(56, 56, 57);
+    font-weight: 400;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    height: 30%;
+    
+}
+.input-child1{
+    display: flex;
+    align-items: flex-end;
+    
+    width: 100%;
+    height: 20%;
+   
+}
+
+.input-child3{
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-between;
+   
+}
+p{
+    display: flex;
+    width: 100%;
+    height: 10%;
+    color: rgb(19, 19, 21);
+    font-size: 25px;
+    font-weight: 400;
+    
+}
+.input-child4{
+    display: flex;
+    height: 15%;
+    align-items: flex-end;
+    width: 100%;
+   
+
+
+}
+.missing{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    width: 100%;
+    height: 14%;
+    
+    
+}
+.input-child5{
+    display: flex;
+    color: rgb(56, 56, 234);
+    font-size: 15px;
+    font-weight: 800;
+    width: 100%;
+   
+}
+.input-child6{
+    width: 100%;
+    height: 10%;
+    font-size: 17px;
+    font-weight: 300;
+    font-family: inherit;
+    color: rgb(141, 141, 146);
+   
+}
+.input-child7{
+    display: flex;
+    flex-direction: row;
+    
+    justify-content: space-between;
+    width: 100%;
+    height: 10%;
+   
+}
+.checkbox{
+    display: flex;
+    align-items: flex-start;
+    
+    width: 100%;
+    height: 15%;
+}
